@@ -2,7 +2,9 @@
 
 ## WHO THE FUCK LET US REMAKE THE GAME?
 
-A complete remaster of the most batshit terminal-based web game you've ever played.
+A complete remaster of the most batshit terminal-based web game you've (n)ever played.
+
+this game is the most jank game raunchy backyard ass game ever - my grandpa
 
 > If Jackbox took acid in a Reddit thread and fucked Google Docs while 4chan filmed it — this would be their demon child.
 
