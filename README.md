@@ -1,68 +1,65 @@
-# TERMINALWRECK  
-### _The World's Greatest Worst Idea™_
 
-> “What if Google Docs and a hacker convention got blackout drunk at DEFCON and made a baby in the back of a Waffle House?”  
-> — no one, but us now.
+# **TERMINALWRECK**  
+*The loudest, filthiest, most dangerously fun terminal-based web game you’ve ever fucking played.*
 
----
+Welcome to **TerminalWreck**—a psychedelic car crash between a hacker war room and a cursed game of Jackbox hosted by a gremlin with a megaphone and a grudge. If Google Docs got blackout drunk with 4chan, took acid, and started screaming into a terminal window, this would be the baby.
 
-**TerminalWreck** is a browser-based multiplayer terminal from hell.  
-You make an account, spin up a room, hop on VC, and absolutely **lose your mind** with your friends.
-
-It’s a **game**, it’s a **chatroom**, it’s an **OS**, it’s **Jackbox on acid**, and it's probably breaking like three digital Geneva Conventions.  
-**Built for chaos. Designed for the unhinged. Welcome to the terminal.**
+**It’s multiplayer. It’s fast. It’s broken in the best way. And it only gets worse the longer you play.**  
+Don’t ask if it’s safe for work. If you have to ask, you’re already too soft.
 
 ---
 
-## FEATURES
+## **WHAT THE HELL IS THIS?**
 
-- **Terminal-Based UI** (but sexy)  
-- **Accounts, Tags, and Custom Themes**  
-- **Live Multiplayer Chat & Voice** (WebRTC with a visual who’s-talking UI)  
-- **“Rawdog” Chat Mode** (Free play: no rules, no gods, no sleep)  
-- **Edgy Games** like:  
-  - **Prompt Panic** – Write the wildest quote. Pray it’s not traced back to you.  
-  - **After Dark Mode** – For those legally distinct Cards Against Humanity vibes  
-  - **Impostor** – Code challenges meet social deception  
-  - **Backdoor** – Simulated hacking chaos. Steal fake Wi-Fi. Get hunted.  
-  - **BombParty** – But from a cursed dimension  
-  - **RAP OVER THAT!** – Lyric chaos over voice chat  
-  - **WreckZone** – A 24/7 persistent room where the game plays *you*  
-- **Terminal Commands to F*** With Your Friends**  
-  - `/rm -rf` – Wipes everyone's screen except yours  
-  - `/kick @user` – Get 'em out  
-  - `/vc mute @user` – Silence the chaos  
-  - `/tag [name]` – Become `[HRLY] Nick` or `[CEO] Dumbass`  
-  - `/theme retro-bliss` – Swap your whole vibe  
-  - `/start [game]` – Boot up the pain  
-  - `/submitgame` – Add your own cursed minigames  
-- **Custom Game Loader** (make your own games, upload, play)  
-- **Account System Built In the Terminal** (yup.)  
-- **Discord Integration** (log in with Discord and cry in style)  
-- **Fully Rewritten UI** – Sexy animations, CRT themes, sliding terminal windows
+TerminalWreck is a browser-based, terminal-style party game that slaps a bunch of demented game modes together like a bundle of live wires. You play it with friends, enemies, or that one cousin who thinks they're the funny one.
 
 ---
 
-## WHY?
+## **GAME MODES**
 
-Because nothing else was stupid enough to try this.  
-Because sometimes the best ideas come from the **worst intentions**.  
-Because Jackbox is too clean.  
-Because AnuraOS didn’t go far enough.  
-Because we wanted to make a game that actively tries to kill you while you laugh with your friends.
+**Bombparty** – Spell or perish. Think typing game meets pressure cooker. No spellcheck, no mercy.
 
----
+**PromptPanic** – Speed-type unhinged prompts before your brain melts. Creativity rewarded. Shame guaranteed.
 
-## RUNNING LOCALLY
+**Evil Admin** – It’s *Among Us* if it were hosted on a cracked Raspberry Pi by a sysadmin with anger issues. Sniff out the traitor or become them.
 
-```bash
-git clone https://github.com/yourusername/terminalwreck.git
-cd terminalwreck
-npm install
-npm start
+**Backdoor** – Fake a Wi-Fi network. Set a trap. Watch fools walk into it. Guess passwords. Get hacked. Hack back. It’s digital warfare with none of the consequences.
+
+**PromptPanic: After Dark** – **NSFW. NSFL. WTF.** This is where the wheels fall off. Prompts written like Kanye tweets on ayahuasca. Pure chaos. For adults with no future.
 
 ---
 
-## CREDITS 
-HRLY MADE THIS.
-BREAK EVERYTHING. LAUGH HARDER.
+## **HOW TO PLAY**
+
+1. Go to [IN PROGRESS].
+2. Choose a game mode.
+3. Scream at your friends through the void of the terminal.
+4. Laugh. Cry. Reconsider your life choices.
+5. Repeat.
+
+---
+
+## **REQUIREMENTS**
+
+- Keyboard
+- Internet
+- Willingness to emotionally scar yourself (and others)
+
+---
+
+## **LEGAL DISCLAIMER**  
+This game may cause:
+- Rage quits  
+- Friendship-ending insults  
+- Deep existential dread  
+- Loud, uncontrollable laughter  
+- A sudden urge to shitpost  
+
+We are not liable for any damaged relationships, fried nerves, or cursed Wi-Fi names that appear on your local network.
+
+---
+
+## **CREDITS**
+
+Made by [HRLY]  
+Fueled by caffeine, chaos, and questionable design choices.
