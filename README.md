@@ -32,8 +32,19 @@ You’ll need:
 - [mediasoup](https://mediasoup.org/) (already summoned in the code)
 - Friends dumb enough to play
 
-```bash
 git clone https://github.com/you/terminalvoid.git
 cd terminalvoid
 npm install
 npm run start
+
+---
+
+## TESTERS
+
+Aflak and Crystals
+Tested while on several different drugs, across 3 different accounts on Assault.
+If it works for them, it’ll probably work for you… or not.
+
+---
+
+### MADE BY HRLY WITH NOTHING BUT PAIN
