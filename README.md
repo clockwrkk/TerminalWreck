@@ -1,65 +1,70 @@
+# TERMINALWRECK: HELL ON EARTH
 
-# **TERMINALWRECK**  
-*The loudest, filthiest, most dangerously fun terminal-based web game you’ve ever fucking played.*
+## WHO THE FUCK LET US REMAKE THE GAME?
 
-Welcome to **TerminalWreck**—a psychedelic car crash between a hacker war room and a cursed game of Jackbox hosted by a gremlin with a megaphone and a grudge. If Google Docs got blackout drunk with 4chan, took acid, and started screaming into a terminal window, this would be the baby.
+A complete remaster of the most batshit terminal-based web game you've ever played.
 
-**It’s multiplayer. It’s fast. It’s broken in the best way. And it only gets worse the longer you play.**  
-Don’t ask if it’s safe for work. If you have to ask, you’re already too soft.
-
----
-
-## **WHAT THE HELL IS THIS?**
-
-TerminalWreck is a browser-based, terminal-style party game that slaps a bunch of demented game modes together like a bundle of live wires. You play it with friends, enemies, or that one cousin who thinks they're the funny one.
+> If Jackbox took acid in a Reddit thread and fucked Google Docs while 4chan filmed it — this would be their demon child.
 
 ---
 
-## **GAME MODES**
+### **NEW SHIT ADDED:**
 
-**Bombparty** – Spell or perish. Think typing game meets pressure cooker. No spellcheck, no mercy.
-
-**PromptPanic** – Speed-type unhinged prompts before your brain melts. Creativity rewarded. Shame guaranteed.
-
-**Evil Admin** – It’s *Among Us* if it were hosted on a cracked Raspberry Pi by a sysadmin with anger issues. Sniff out the traitor or become them.
-
-**Backdoor** – Fake a Wi-Fi network. Set a trap. Watch fools walk into it. Guess passwords. Get hacked. Hack back. It’s digital warfare with none of the consequences.
-
-**PromptPanic: After Dark** – **NSFW. NSFL. WTF.** This is where the wheels fall off. Prompts written like Kanye tweets on ayahuasca. Pure chaos. For adults with no future.
+- **VC SUPPORT** (Yell at your friends in real time)
+- **CUSTOM THEMES** (Sexy-ass animated gradients)
+- **A FULLY FUNCTIONAL MENU** (Make accounts. Join parties. Feel powerful.)
+- **NO REACT** (We said FUCK REACT and did it all in vanilla JS like gods)
+- **AUTO-CHAOS ON ROOM CREATION** (You don’t choose violence — it chooses you)
+- **SLICK UI** (So clean you’ll want to lick the screen)
 
 ---
 
-## **HOW TO PLAY**
+### **GAME MODES (YES, THEY'RE ALL STILL HERE)**
 
-1. Go to [IN PROGRESS].
-2. Choose a game mode.
-3. Scream at your friends through the void of the terminal.
-4. Laugh. Cry. Reconsider your life choices.
-5. Repeat.
-
----
-
-## **REQUIREMENTS**
-
-- Keyboard
-- Internet
-- Willingness to emotionally scar yourself (and others)
+- **Bombparty** — spell or explode.
+- **RapOverThat!** — freestyle over beats. With VC. No talent required.
+- **Prompt Panic** — rapid fire weird prompts.
+- **Evil Admin** — Among Us in a command line. Sabotage. Blame. Execute.
+- **Backdoor** — Set up fake Wi-Fi. Don’t get hacked. Be the honeypot.
 
 ---
 
-## **LEGAL DISCLAIMER**  
-This game may cause:
-- Rage quits  
-- Friendship-ending insults  
-- Deep existential dread  
-- Loud, uncontrollable laughter  
-- A sudden urge to shitpost  
+### **AFTER DARK EDITION:**
 
-We are not liable for any damaged relationships, fried nerves, or cursed Wi-Fi names that appear on your local network.
+Not for normies. Not for HR. Not for church.
+
+- **Prompt Panic After Dark** — Kanye tweet energy. NSFW. Unfiltered.
+- **RapOverThat After Dark** — Horny bars and bad decisions.
+- **What The Fuck Is The Internet** — Write tweets that feel like a war crime. Like if Cards Against Humanity was racist *and* a Discord user (oh wait…)
 
 ---
 
-## **CREDITS**
+### **SOCIAL STUFF**
 
-Made by [HRLY]  
-Fueled by caffeine, chaos, and questionable design choices.
+- Custom names? Yup.
+- Tags like `[IDIOT] Hrly.dev`? Of course.
+- Sexy UI? It's dripping.
+- About page? Says: `Made by hrly.dev with love! <3`
+
+---
+
+### **TECH NOTES**
+
+- Multiplayer: Socket.IO powered
+- VC: WebRTC chaos
+- UI: Terminal vibes meets vaporwave war crimes
+- No frameworks. No mercy.
+
+---
+
+### **ASCII VIBES**
+
+```plaintext
+████████╗███████╗██████╗ ███╗   ███╗██╗███╗   ██╗ █████╗ ██╗     
+╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗██║     
+   ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║     
+   ██║   ██╔══╝  ██╔═══╝ ██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║     
+   ██║   ███████╗██║     ██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗
+   ╚═╝   ╚══════╝╚═╝     ╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
+
+            TERMINALWRECK — YOUR FRIENDS WILL HATE YOU
