@@ -12,7 +12,7 @@ this game is the most jank game raunchy backyard ass game ever - my grandpa
 
 ### **NEW SHIT ADDED:**
 
-- **VC SUPPORT** (Yell at your friends in real time)
+- ** NO VC SORRY IT SUCKS USE DISCORD DUH! **
 - **CUSTOM THEMES** (Sexy-ass animated gradients)
 - **A FULLY FUNCTIONAL MENU** (Make accounts. Join parties. Feel powerful.)
 - **NO REACT** (We said FUCK REACT and did it all in vanilla JS like gods)
