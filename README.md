@@ -3,9 +3,9 @@
 **The game that makes you feel high, drunk, and mentally compromised at the same time.**  
 Welcome to **TerminalWreck** — the multiplayer fake-OS terminal party game where *chaos isn't a bug, it's the entire point*.
 
-### What the hell is this?
+### What the hell is terminalwreck?
 
-**TerminalWreck** is like if:
+**TerminalWreck** is if:
 - Jackbox got dosed
 - Google Docs got hacked
 - 4chan and a porn site raised a child together
