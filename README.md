@@ -33,7 +33,6 @@ All wrapped in a fake-ass terminal OS that boots into war. You log in, you make 
 
 ### Game Modes (All SFW & NSFW Compatible)
 
-- **BombParty** (renamed)
 - **PromptPanic** / **Prompt Panic After Dark**
 - **Evil Admin** (Among Us-style backstabber)
 - **Backdoor** (fake hacking, real chaos)
@@ -42,7 +41,7 @@ All wrapped in a fake-ass terminal OS that boots into war. You log in, you make 
 - **Story or Death** (write short stories and get shuffled around, then roasted)
 - **RAPOVERTHAT** (VC rap game — freestyle, fill-in-the-blanks, absolute mayhem)
 
-> Every game supports `/normal.txt` and `/depraved.txt` prompt decks.
+> most game modes support custom decks as well as the normal and nsfw decks.
 
 ---
 
@@ -57,7 +56,7 @@ All wrapped in a fake-ass terminal OS that boots into war. You log in, you make 
 - **Propaganda Generator**  
   `/manifesto` generates insane AI-generated rants about your tag.
 
-- **Garbage Economy**  
+- **Our economy but better because fuck tariffs.**  
   Earn **Bits of RAM** to unlock dumb cosmetics like lag particles or boot-up sound effects.
 
 - **Personality Injection**  
@@ -83,15 +82,15 @@ Like Vencord meets Steam Workshop:
 - Custom decks for prompts, raps, and stories
 - Plugins to break the UI or add new commands
 - Mods that change your entire experience (or ruin it)
-
+- Also
 ---
 
 ### Credits
 
-**Made by:** [hrlyy.dev](https://hrlyy.dev) with absolutely no restraint.
+**Made by:** [clockwrkk](clockwrkk.github.io/clockwrkk-devsite/) with absolutely no restraint.
 
 **Tested by:**  
-**Aflak** and **Crystals** — on multiple substances, across three accounts, in pure TerminalWreck fashion.
+**Aflak** and **Crystals** — on multiple substances, 6 warrants out for their arrest, in pure TerminalWreck fashion.
 
 ---
 
