@@ -87,7 +87,7 @@ Like Vencord meets Steam Workshop:
 
 ### Credits
 
-**Made by:** [clockwrkk](clockwrkk.github.io/clockwrkk-devsite/) with absolutely no restraint.
+**Made by:** [clockwrkk](https://guns.lol/callmeclock)) with absolutely no restraint.
 
 **Tested by:**  
 **Aflak** and **Crystals** — on multiple substances, 6 warrants out for their arrest, in pure TerminalWreck fashion.
